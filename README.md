@@ -12,6 +12,7 @@
 | 状态 | Pinia，按 store persist 到 `uni.storage` |
 | 鉴权 | `user.token` 有值才带 `Authorization: Bearer`，无登录页 |
 | 环境 | `.env.development` / `.env.production` 的 `VITE_API_BASE_URL` |
+| 提交 | Conventional Commits（`commitlint`） |
 | 其它 | 不做 i18n、不做暗色模式 |
 
 ## 开始

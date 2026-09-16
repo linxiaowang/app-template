@@ -45,6 +45,8 @@
     "vue-router": "4.5.1"
   },
   "devDependencies": {
+    "@commitlint/cli": "^21.2.2",
+    "@commitlint/config-conventional": "^21.2.2",
     "@dcloudio/types": "^3.4.32",
     "@dcloudio/uni-automator": "3.0.0-4080720251210001",
     "@dcloudio/uni-cli-shared": "3.0.0-4080720251210001",
@@ -85,7 +87,8 @@
     }
   },
   "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
+    "pre-commit": "pnpm lint-staged",
+    "commit-msg": "pnpm exec commitlint --edit $1"
   },
   "lint-staged": {
     "*": "eslint --fix"
