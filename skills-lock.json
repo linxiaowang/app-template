@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "skills": {
+    "create-wot-ui-theme": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": "skills/create-wot-ui-theme/SKILL.md",
+      "computedHash": "0557819ce03183457bd196af213996963b5713641bf76546306d826501bab188"
+    },
+    "migrate-v1-to-v2": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": "skills/migrate-v1-to-v2/SKILL.md",
+      "computedHash": "c4ee92cd59e158b22841768e31a489e0c3709d9eda0c46411fd1e9a50b909f71"
+    },
+    "openspec-apply-change": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-apply-change/SKILL.md",
+      "computedHash": "42799054b36d1b56e2054ce83d13be0a0bc10a8b2255dd882d4bc390b08e2452"
+    },
+    "openspec-archive-change": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-archive-change/SKILL.md",
+      "computedHash": "846e742baacd55f3543c8f385e798438a9c173334ea676bd79c8f375b17be593"
+    },
+    "openspec-explore": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-explore/SKILL.md",
+      "computedHash": "b76ca747dc11bbc86c252eb7c3bf2ce1ee738591d9d43e9aa145965b3c95f68b"
+    },
+    "openspec-propose": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-propose/SKILL.md",
+      "computedHash": "7ce19f2d5e74e967b1b02aa87f244f709b17a745673939c54de2fff697a0d85f"
+    },
+    "openspec-sync-specs": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-sync-specs/SKILL.md",
+      "computedHash": "7fafcb2a58d06ae1cf050bd71b7f866e6cc3a7c6c982889c8c1d356f71e51a3b"
+    },
+    "openspec-update-change": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-update-change/SKILL.md",
+      "computedHash": "87f96c5226f93969199ff771da39fba708301bbc0b1b0dd76e990d1ceeb110cc"
+    },
+    "openspec-verify-change": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/openspec-verify-change/SKILL.md",
+      "computedHash": "dc327c3480d6107323cef3d275dac555a51b61bc231047fa499209a3dc695fe8"
+    },
+    "starter-cleaner": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": "skills/starter-cleaner/SKILL.md",
+      "computedHash": "0247a3309c6981f4a61e022045e0390866f9aae56c7e778a93ec468a4ab3b4bf"
+    },
+    "wot-ui-cli": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": "skills/wot-ui-cli/SKILL.md",
+      "computedHash": "2b01b992584eb892bf6805ea099d253fa5e0ed0e98139114a8baaa78bf2823d5"
+    },
+    "wot-ui-unocss-preset-guide": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": "skills/wot-ui-unocss-preset-guide/SKILL.md",
+      "computedHash": "bf1f6f752d0fef15063b56df11a902ff110ae177d867cef76b953ef237c05a70"
+    },
+    "wot-ui-v2": {
+      "source": "wot-ui/open-wot",
+      "sourceType": "github",
+      "skillPath": "skills/wot-ui-v2/SKILL.md",
+      "computedHash": "207723b8a0e23cb5657ce9dae012ab92c0d6397212d56b07fafbdbc1ba9c3c2e"
+    }
+  }
+}
